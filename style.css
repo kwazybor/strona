@@ -1,0 +1,90 @@
+A:hover {text-decoration:none;}
+A {Text-decoration:none; color:white;}
+
+#strona
+{
+	width:100%;
+	margin-left:auto;
+	margin-right:auto;
+	min-height:1000px;
+	color:white;
+}
+
+#logo
+{
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	font-size:30px;
+	background-color:#333333;
+	padding:10px;
+}
+
+#menu
+{
+	background-color:#913232;
+	height:55px;
+	padding-top:15px;
+	padding-bottom:15px;
+	text-align:center;
+	font-size:45px;
+	width:100%;
+	clear:boath;
+}
+
+#content
+{
+	text-align:center;
+	padding:20px;
+	font-size:40px;
+	margin-left:auto;
+	margin-right:auto;
+	width:1300px;
+}
+
+#social
+{
+	Height:250px;
+	background-color:black;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.div
+{
+	float:left;
+	font-size:100px;
+	width:280px;
+	Height:165px;
+	padding:50px;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:re;
+	
+}
+
+.menubutton
+{
+	float:left;
+	padding:;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	width:25%;
+	
+}
+
+body 
+{
+		margin:0px;
+		padding:0px;
+}
+
+:hover
+{
+	width:210;
+	height:170;
+}
+
